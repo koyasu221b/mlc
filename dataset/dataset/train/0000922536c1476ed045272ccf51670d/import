@@ -1,0 +1,11 @@
+KERNEL32.DLL	LoadLibraryA
+KERNEL32.DLL	GetProcAddress
+KERNEL32.DLL	VirtualProtect
+KERNEL32.DLL	VirtualAlloc
+KERNEL32.DLL	VirtualFree
+KERNEL32.DLL	ExitProcess
+COMCTL32.dll	None
+MSVCRT.dll	exit
+OLEAUT32.dll	None
+SHELL32.dll	ShellExecuteExA
+USER32.dll	SetTimer

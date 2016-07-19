@@ -1,0 +1,443 @@
+    417 QSRP
+    46f RSPQ
+    6d3 0SVW
+    733 u3hh
+    821 Y_^[
+    970 PQVW
+    9b7 RPWQV
+    9f0 PQVW
+    a59 QVPRW
+    a9e SVWP
+    b1c ~rS3
+    b5c }2HP
+    bb2 Y_^[
+    bf1 SVWP
+    f26 Y_^[
+   1010 PQVW
+   117f D$XSVW
+   118e D$pd
+   11db D$\f
+   11e4 D$xP
+   11ed D$(3
+   1257 9|$Dr
+   125e T$0R
+   1278 \$@f
+   127d D$09|$(r
+   129f \$$f
+   12a7 9|$`r
+   12ae D$LP
+   12c8 L$pd
+   12d2 Y_^[
+   12d7 L$X3
+   1630 98u#
+   1d22 1f;0u
+   1d7f u"Vj
+   1e81 9X<r	
+   1ea5 H(9X r
+   20ba 8_^[]
+   20e0 PQSVW
+   2109 w&9F
+   2190 Y_^[
+   225d Y_^[
+   2688 Y_^[
+   2a6d Y_^[
+   2beb WPVSj
+   2ca0 Y_^[
+   2cf0 PQSVW
+   2e0e Y_^[
+   2e30 PSVW
+   2f19 Y_^[
+   2fef D2@SP
+   302c Y_^[
+   30c9 Y_^[
+   3101 SVWP
+   3370 PQhl
+   33bf Y_^[
+   3411 SVWP
+   37bc Y_^[
+   3823 LSVW
+   38c4 |	9E
+   3b8b tvQW
+   3ce5 Y_^[
+   3d1a Y_^[
+   3d51 SVWP
+   3ec2 Y_^[
+   3f11 SVWP
+   3fdb Y_^[
+   4091 SVWP
+   42aa 9K r
+   42bc P9K r
+   4386 9s<r
+   4566 Y_^[
+   4661 SVWP
+   46d5 RPQh
+   47bc Y_^[
+   49e6 VPWQj
+   4a41 VRWPj
+   4a5e _^[]
+   4a7f 3^[]
+   4aa9 WPWVj
+   4afc VQWRj
+   4b19 _^[]
+   4e7c t=;M
+   4f1c t=;M
+   547b tzWj
+   5497 VWRP
+   550a Y_^[
+   553e SVWP
+   563c Y_^[
+   56f3  SVW
+   575a Y_^[
+   57c8 RVSj
+   58ae Y_^[
+   5960 PQSVW
+   59a9 SSSShP
+   5a06 Y_^[
+   5c31 SVWP
+   5d4a C4RVP
+   6021 v49s
+   6026 v/9s
+   6111 zuWj
+   62ba Y_^[
+   6410 PQSVW
+   645d PVSj
+   6482 Y_^[
+   66b1 SVWP
+   681b Y_^[
+   6890 PQVW
+   6977 SVW3
+   6a36 u	_^2
+   6cbc 8.uI
+   70ac 	F<"t
+   71fe < t3<	t/<
+   720c t'<,t#<]t
+   7230 F< u
+   77c5 												
+   77d2 																																												
+   77ff 					
+   7809 							
+   7830 PQSVW
+   7865 Y_^[
+   787f Y_^[
+   78a0 PQSVW
+   78e7 Y_^[
+   7903 Y_^[
+   7920 PQSVW
+   799a Y_^[
+   7b25 R QP
+   7f15 s\SWP
+   80ef _^[]
+   8130 PQSV
+   840b Y_^[
+   8433  SVW
+   84d8 Y_^[
+   85aa t%Vh
+   8ad6 8csm
+   8bcf Y__^[
+   8c09 8csm
+   8d2f _^[]
+   8dc3 Y_^[
+   8df4 Y_^[
+   8e24 VVVVV
+   8f6f t>VP
+   9010 Y__^[
+   a10c Cannot initialize WinInet functions.
+   a134 Utilities\capwininet.cpp
+   a4c4 Bad float number
+   a4d8 Bad integer number
+   a4ec Unknown identifier
+   a500 Unrecognized escape sequence
+   a520 Bad unicode codepoint
+   a538 Control characters not allowed in strings
+   a564 Unexpected character
+   a57c Mismatch closing brace/bracket
+   a59c Second root. Only one root allowed
+   a5c0 Not all objects/arrays have been properly closed
+   a5fc vector<T> too long
+   a768 GetNativeSystemInfo
+   a7b0 ParseCommandLine
+   a7c4 NitroPDFKissMetricsTool.cpp
+   a7e0 ==============================
+   a7ff Exception handled: 0x%08X
+   a819 File: %s
+   a822 Function: %s
+   a82f Line: %d
+   a840 ==============================
+   a85f Exception handled: system
+   a879 File: %s
+   a882 Function: %s
+   a88f Line: %d
+   a93c invalid map/set<T> iterator
+   a958 map/set<T> too long
+   a96c invalid string position
+   a984 string too long
+   ac30 Reporting
+   ac3c Source
+   ac44 Version
+   ac4c InstallSource
+   ac88 MajVersion
+   ac94 AppToken
+   aca0 CKMHandler::Init
+   acb4 Shared\CKMHandler.cpp
+   ace4 CKMHandler::GetAppVersion
+   ae30 RSDS
+   ae48 l:\bin\Win32\Pro Unicode Release\NitroPDFKissMetricsTool.pdb
+   c702 GetFileVersionInfoSizeW
+   c71c GetFileVersionInfoW
+   c732 VerQueryValueW
+   c742 VERSION.dll
+   c750 ??3@YAXPAX@Z
+   c760 malloc
+   c76a free
+   c772 sprintf_s
+   c77e ??0exception@std@@QAE@ABV01@@Z
+   c7a0 ?what@exception@std@@UBEPBDXZ
+   c7c0 ??1exception@std@@UAE@XZ
+   c7dc ??0exception@std@@QAE@ABQBD@Z
+   c7fc ??2@YAPAXI@Z
+   c80c memmove
+   c816 wprintf
+   c820 isalnum
+   c82a _time64
+   c834 _wtoi
+   c83c _recalloc
+   c848 calloc
+   c852 swprintf_s
+   c860 ??_U@YAPAXI@Z
+   c870 __CxxFrameHandler3
+   c886 _CxxThrowException
+   c89c realloc
+   c8a6 memset
+   c8b0 ??_V@YAXPAX@Z
+   c8c0 strncpy
+   c8c8 MSVCR100.dll
+   c8d8 _unlock
+   c8e2 __dllonexit
+   c8f0 _lock
+   c8f8 _onexit
+   c902 _amsg_exit
+   c910 __wgetmainargs
+   c922 _cexit
+   c92c _exit
+   c934 _XcptFilter
+   c942 exit
+   c94a __winitenv
+   c958 _initterm
+   c964 _initterm_e
+   c972 _configthreadlocale
+   c988 __setusermatherr
+   c99c _commode
+   c9a8 _fmode
+   c9b2 __set_app_type
+   c9c4 _crt_debugger_hook
+   c9da ?terminate@@YAXXZ
+   c9ee ?_type_info_dtor_internal_method@type_info@@QAEXXZ
+   ca24 _except_handler4_common
+   ca3e _invoke_watson
+   ca50 _controlfp_s
+   ca5e mfc100u.dll
+   ca6c GetProcAddress
+   ca7e GetModuleHandleW
+   ca92 GetCommandLineW
+   caa4 LocalFree
+   cab0 GetLastError
+   cac0 WideCharToMultiByte
+   cad6 lstrlenW
+   cae2 lstrlenA
+   caee MultiByteToWideChar
+   cb04 GlobalAlloc
+   cb12 GlobalLock
+   cb20 GlobalUnlock
+   cb30 GlobalFree
+   cb3e GetCurrentProcess
+   cb52 LocalAlloc
+   cb60 EncodePointer
+   cb70 DecodePointer
+   cb80 InterlockedExchange
+   cb96 Sleep
+   cb9e InterlockedCompareExchange
+   cbbc HeapSetInformation
+   cbd2 TerminateProcess
+   cbe6 UnhandledExceptionFilter
+   cc02 SetUnhandledExceptionFilter
+   cc20 IsDebuggerPresent
+   cc34 QueryPerformanceCounter
+   cc4e GetTickCount
+   cc5e GetCurrentThreadId
+   cc74 GetCurrentProcessId
+   cc8a GetSystemTimeAsFileTime
+   cca2 KERNEL32.dll
+   ccb2 SetCursor
+   ccbe LoadCursorW
+   ccca USER32.dll
+   ccd8 RegOpenKeyExW
+   cce8 RegQueryValueExW
+   ccfc RegCloseKey
+   cd0a RegSetValueExW
+   cd1c RegFlushKey
+   cd2a GetUserNameW
+   cd3a LookupAccountNameW
+   cd50 IsValidSid
+   cd5e FreeSid
+   cd68 CryptGetHashParam
+   cd7c CryptHashData
+   cd8c CryptCreateHash
+   cd9e CryptAcquireContextW
+   cdb6 CryptReleaseContext
+   cdcc CryptDestroyHash
+   cdde ADVAPI32.dll
+   cdee CommandLineToArgvW
+   ce02 SHELL32.dll
+   ce10 ?_Xout_of_range@std@@YAXPBD@Z
+   ce30 ?_Xlength_error@std@@YAXPBD@Z
+   ce50 ?_Orphan_all@_Container_base0@std@@QAEXXZ
+   ce7a MSVCP100.dll
+   ce8a InternetOpenW
+   ce9a InternetCloseHandle
+   ceb0 InternetReadFile
+   cec4 InternetQueryDataAvailable
+   cee2 HttpSendRequestW
+   cef6 InternetSetOptionW
+   cf0c HttpQueryInfoW
+   cf1e HttpOpenRequestW
+   cf32 InternetConnectW
+   cf44 WININET.dll
+   cf52 memcpy
+   d008 .?AVCAPError@@
+   d040 .?AVCAPArray@@
+   d058 .?AV?$vector@PAXV?$allocator@PAX@std@@@std@@
+   d090 .?AV?$_Vector_val@PAXV?$allocator@PAX@std@@@std@@
+   d0cc .?AU_Container_base0@std@@
+   d0f0 .?AVtype_info@@
+   d128 .?AV_AFX_DLL_MODULE_STATE@@
+   d14c .?AVAFX_MODULE_STATE@@
+   d16c .?AVCNoTrackObject@@
+   d18c .PAVCNxException@@
+   d1a8 .PAX
+   d1c4 .?AVexception@std@@
+   d1e0 .?AVbad_alloc@std@@
+   d1fc .?AV?$CList@W4EKMEventType@@ABW41@@@
+   d22c .?AVCObject@@
+   d244 .?AV?$CList@UCEventDataStruct@@ABU1@@@
+   d274 .PAVCException@@
+   d4ee PA<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><ms_windowsSettings:dpiAware xmlns:ms_windowsSettings="http://schemas.microsoft.com/SMI/2005/WindowsSettings" xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</ms_windowsSettings:dpiAware></windowsSettings></application></assembly>P
+   d808 '0@0P0u0
+   d823 1$1-121?1D1M1Y1`1h1q1
+   d843 2>2G2P2]2l2
+   d861 3 3,363;3y3
+   d879 4B4J4T4v4
+   d889 5*585A5f5u5
+   d8c3 ;:;F;K;Q;c;h;
+   d8e3 <D<g<t<}<
+   d8f5 =A=F=Q=i=x=
+   d91d 4<6b6F:x:
+   d959 0S0Y0
+   d95f 1%1*151V1h1
+   d971 2#2_2
+   d97f 3;4k4
+   d995 5$5/5F5X5
+   d9b1 7f7x7
+   d9bf 7#8@8N8U8`8h8t8
+   d9db 9$9-979x9
+   d9e7 9&:5:]:s:
+   d9f9 ;6;H;d;
+   da01 <=<V<h<
+   da15 =A>w>
+   da1f ?.?s?
+   da39 0F0h0p0}0
+   da4d 131K1W1c1p1
+   da6d 383N3o3
+   da85 4(4@4P4Y4g4v4
+   da9d 5 5)5=5X5a5l5
+   dab1 5:6S6\6z6
+   dabf 6*777M7Z7~7
+   dacf 7	828>8C8L8W8z8
+   daf1 9+969H9v9
+   dafb 98:?:Y:h:
+   db11 ;0;N;
+   db1d ;h<v<
+   db2b <Y=o=
+   db37 =#>z?
+   db49 1@1L1X1|1
+   db69 252F2X2
+   db81 393U3Z3_3q3v3
+   db97 3>4a4
+   dba9 5#5\5
+   dbc3 7(7G7Z7
+   dbd5 8(9G9l9
+   dbe7 :);A;e;
+   dbf9 <*<g<
+   dc05 =P=n=
+   dc17 ?l?r?
+   dc31 0@0\0e0s0
+   dc49 0&151
+   dc5b 2 2Z2
+   dc65 3B3J3i3
+   dc75 4+4:4u4
+   dc85 5#5V5f5
+   dc9f 6B6Q6Z6d6
+   dcbd 70787I7Q7b7j7{7
+   dceb 8(8u8|8
+   dcf7 8"9+959B9
+   dd09 :":=:g:
+   dd23 ;	<1<|<
+   dd33 =)=]=g=
+   dd41 =D>[>{>
+   dd5f 020Y0i0r0
+   dd6d 1$1-1
+   dd8b 3\3o3
+   ddaf 6-6R6}6
+   ddb9 7_7p8
+   ddf3 2 3$3(3,3034383<3
+   de17 3&464n4
+   de3b ;:;\;
+   de49 =&=5=L=|=n>b?
+   de64 &080
+   de7b 222=2S2k2u2
+   dea1 30393T3^3q3{3
+   decd 4%4+444S4[4d4j4r4~4
+   df01 5#5/5:5N5T5Z5`5
+   df31 6#6(6.686A6L6X6]6m6r6x6~6
+   df51 7d7j7p7
+   df5f 7A8G8P8X8]8~8
+   df6f 8H9M9_9}9
+   df7f :<:_:l:x:
+   dfa9 ;i;u;
+   dfb5 <"<(<.<4<:<@<X<d<p<
+   dfd5 =E=\=u=
+   dfe7 >2>]>
+   dff3 ?-?F?g?
+   e013 050U0l0
+   e035 1=1T1
+   e047 252?2U2e2n2
+   e059 2"3j3
+   e077 4)4K4W4n4
+   e08b 5B5U5a5m5y5
+   e09d 6*6H6T6`6l6
+   e0af 7 83898>8Q8[8n8u8
+   e0ed 8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+   e16b < <(<0<8<<?@?D?H?L?P?T?X?\?`?d?h?
+   e194 $0(0
+   e1b3 1 1$1<1L1P1T1X1`1x1|1
+   e1df 2,202@2D2L2d2t2x2
+   e20d 30343D3H3L3T3l3|3
+   e23b 4 484H4L4T4l445<5D5P5t5
+   e267 6(6H6P6\6
+   e27f 747X7d7l7
+   e297 8H8d8h8
+   e2af 949P9T9\9l9|9
+   e2d5 :,:4:H:T:\:t:|:
+   e2f7 ;,;4;<;D;L;T;\;d;l;t;|;
+   e321 <(<4<<<T<l<t<
+   e341 =(=H=P=\=|=
+   e35d >0><>D>\>l>t>
+   e387 ?$?,?4?D?L?`?l?t?
+   e3bf 0$0<0L0T0\0d0l0|0
+   e3dd 1$10181T1\1d1l1t1|1
+   e3fd 2$2,2\2p2|2
+   e41f 3$3,3D3L3\3l3
+   e43f 4(40484D4d4l4t4
+   e463 5$585L5X5`5
+   e47b 080P0
+   e485 0 1D1d1
+   e497 1$2<2l2

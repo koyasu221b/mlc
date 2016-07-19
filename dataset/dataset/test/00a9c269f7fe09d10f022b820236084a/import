@@ -1,0 +1,11 @@
+KERNEL32.dll	EnumResourceNamesW
+KERNEL32.dll	DeleteFileW
+KERNEL32.dll	HeapCreate
+KERNEL32.dll	FindFirstFileW
+KERNEL32.dll	CreateProcessA
+KERNEL32.dll	GetProcessIoCounters
+KERNEL32.dll	DebugActiveProcessStop
+KERNEL32.dll	QueryActCtxW
+KERNEL32.dll	CreateProcessInternalWSecure
+KERNEL32.dll	EndUpdateResourceW
+KERNEL32.dll	GlobalUnlock

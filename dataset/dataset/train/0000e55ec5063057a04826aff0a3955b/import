@@ -1,0 +1,12 @@
+KERNEL32.dll	HeapSize
+KERNEL32.dll	FindVolumeMountPointClose
+KERNEL32.dll	EnumDateFormatsW
+KERNEL32.dll	SetCalendarInfoA
+KERNEL32.dll	GetOEMCP
+KERNEL32.dll	BaseQueryModuleData
+KERNEL32.dll	GetSystemTime
+KERNEL32.dll	FindNextVolumeW
+KERNEL32.dll	EnumUILanguagesA
+KERNEL32.dll	CreateWaitableTimerA
+KERNEL32.dll	SetStdHandle
+KERNEL32.dll	SetFileAttributesA
