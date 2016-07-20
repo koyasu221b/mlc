@@ -3,6 +3,7 @@ from sklearn.feature_selection import SelectFromModel
 from sklearn.cross_validation import cross_val_score
 import pandas as pd
 import sys
+import numpy as np
 
 
 def feature_selection(x, y):
@@ -23,14 +24,28 @@ def feature_selection(x, y):
 
 def read_training_data(train_csv):
     train = pd.read_csv(train_csv)
-    print train.shape
+    print "training data shape:", train.shape
+    train.set_index('ID', inplace=True)
+    train.sort_index(0, inplace=True)
+    train.reset_index(inplace=True)
+    return train
 
 
 def read_training_label():
     label = pd.read_csv('dataset/dataset/train.csv')
-    print label.shape
+    print "label shape:", label.shape
+    label.set_index('ID', inplace=True)
+    label.sort_index(0, inplace=True)
+    label.reset_index(inplace=True)
+    return label
 
+def main(train_csv):
+    train = read_training_data(train_csv)
+    label = read_training_label()
+    label = np.squeeze(label.values[:, 1:].astype(int))
+    feature_selection(train.values[:, 1:],
+                      label)
 
 if __name__ == "__main__":
     train_csv = sys.argv[1]
-    read_training_data(train_csv)
+    main(train_csv)
