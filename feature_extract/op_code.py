@@ -137,7 +137,7 @@ if __name__ == "__main__":
     # test_root = '../data/dataset/test'
     """
     Usage:
-        python op_code.py 2 500 ../data/asm/train 4
+        python op_code.py 2 500 ../dataset/asm/train 4
     """
     n_gram = int(sys.argv[1])
     threshold = int(sys.argv[2])
