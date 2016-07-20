@@ -14,7 +14,6 @@ from utils import printProgress
 class FeatureType:
     T_INFO = 'dyna_info'
     T_REG = 'dyna_reg'
-    T_SEG = 'dyna_reg'
 
 total_pe_count = 0
 feature_type = None
